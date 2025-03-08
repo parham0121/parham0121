@@ -1,4 +1,5 @@
-<h2 align="center">I'm the front end developer</h2>
+<h1 align="center">Parham</h1>
+<h2 align="center">front end developer</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
