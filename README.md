@@ -1,10 +1,7 @@
 
-<h1 align="center">
-  <a href=" https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=006312&width=450&height=70&lines=Hi;I'm+parham;Frontend+Developer!&center=true&size=30">
-  </a>
-</h1>
-
+<h1 align="center">Parham</h1>
+ <h2 align="center">Frontend Developer</h2>
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
 </p>
