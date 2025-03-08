@@ -1,6 +1,5 @@
 <h1 align="center">Parham</h1>
 <h2 align="center">front end developer</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=parham0121&show_icons=true&locale=en&layout=compact&bg_color=0000" alt="parham0121" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
