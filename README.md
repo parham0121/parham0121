@@ -1,5 +1,6 @@
 <h1 align="center">Parham</h1>
 <h2 align="center">front end developer</h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=parham0121&show_icons=true&locale=en&layout=compact&bg_color=0000" alt="parham0121" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
@@ -7,6 +8,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parham&count_private=true&show_icons=true&title_color=FFFF01&text_color=ECCE24&icon_color=57ff8c&border_color=30363d&bg_color=008001" alt="User stats" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/sexty-nine">
