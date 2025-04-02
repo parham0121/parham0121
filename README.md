@@ -1,5 +1,4 @@
 <h1 align="center">
-   <a href=" https://readme-typing-svg.herokuapp.com/demo/">
      <img src="https://readme-typing-svg.herokuapp.com/?color=009200&width=450&height=70&lines=Hi👋;I'm+Parham;Frontend+Developer.&center=true&size=30">
    </a>
  </h1>
@@ -14,7 +13,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/parham0121">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parham&theme=github-compact&color=FFFF01&line=006312&point=008001&area_color=57ff8c" alt="Github activity graph"/>
   </a>
 </p>
