@@ -15,12 +15,21 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parham0121&count_private=true&show_icons=true&title_color=FFFF01&text_color=ECCE24&icon_color=57ff8c&border_color=30363d&bg_color=008001" alt="User stats" />
-</p>
+
+<div align="center">
+   
+[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&theme=merko&hide_border=true&border_radius=2)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&theme=merko&show_icons=true&hide_border=true&border_radius=2)
+</div>
 
 <p align="center">
    <a href="https://github.com/parham0121">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parham&theme=github-compact&color=FFFF01&line=006312&point=008001&area_color=57ff8c" alt="Github activity graph"/>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parham0121&theme=github-compact&color=FFFFFF&line=006312&point=008001&area_color=57ff8c" alt="Github activity graph"/>
    </a>
  </p>
+
+<div >
+   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=highcontrast)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+</div>
