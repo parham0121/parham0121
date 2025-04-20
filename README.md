@@ -18,8 +18,8 @@
 
 <div align="center">
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&theme=merko&hide_border=true&border_radius=2)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&theme=merko&show_icons=true&hide_border=true&border_radius=2)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=merko&hide_border=true&border_radius=2)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&card_width=300&card_height=195&theme=merko&show_icons=true&hide_border=true&border_radius=2)
 </div>
 
 <p align="center">
