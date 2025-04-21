@@ -31,5 +31,5 @@
 <div >
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=transparent&hide_border=true&border_radius=2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 </div>
