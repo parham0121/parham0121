@@ -18,7 +18,7 @@
 
 <div align="center">
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://github.com/parham0121)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&card_width=300&card_height=195&theme=chartreuse-dark&show_icons=true&hide_border=true&border_radius=2)
 </div>
 
@@ -31,5 +31,5 @@
 <div >
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=transparent&hide_border=true&border_radius=2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/ECode-Team/AliBaba)
 </div>
