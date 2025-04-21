@@ -6,7 +6,7 @@
 
  <div align="center">
    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parham-mirzaei) [![X](https://img.shields.io/badge/-white.svg?logo=X&logoColor=black)](https://X.com/parham0121)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parham-mirzaei-11a972359/) [![X](https://img.shields.io/badge/-white.svg?logo=X&logoColor=black)](https://X.com/parham0121)
 
 </div>
 
