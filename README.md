@@ -18,18 +18,18 @@
 
 <div align="center">
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=merko&hide_border=true&border_radius=2)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&card_width=300&card_height=195&theme=merko&show_icons=true&hide_border=true&border_radius=2)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&card_width=300&card_height=195&theme=chartreuse-dark&show_icons=true&hide_border=true&border_radius=2)
 </div>
 
 <p align="center">
    <a href="https://github.com/parham0121">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parham0121&theme=github-compact&color=FFFFFF&line=006312&point=008001&area_color=57ff8c" alt="Github activity graph"/>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parham0121&theme=github-compact&color=FFFFFF&line=00FF00&point=F8D210&area_color=57ff8c" alt="Github activity graph"/>
    </a>
  </p>
 
 <div >
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=highcontrast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=transparent&hide_border=true&border_radius=2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 </div>
