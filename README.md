@@ -18,7 +18,7 @@
 
 <div align="center">
    
-[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://github.com/parham0121)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parham0121&card_width=400&card_height=195&theme=chartreuse-dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parham0121&card_width=300&card_height=195&theme=chartreuse-dark&show_icons=true&hide_border=true&border_radius=2)
 </div>
 
