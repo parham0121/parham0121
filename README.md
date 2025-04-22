@@ -27,10 +27,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=transparent&hide_border=true&border_radius=2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/ECode-Team/AliBaba)
 <a href="https://t.me/Parysolh">
-    <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" style="width:40px;"/>
+    <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" style="width:50px;"/>
 </a>
 <a href="https://www.linkedin.com/in/parham-mirzaei-11a972359/">
-    <img alt="Telegram" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:40px;"/>
+    <img alt="Telegram" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" style="width:50px;"/>
 </a>
 
 </div>
