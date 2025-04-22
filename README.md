@@ -4,12 +4,6 @@
    </a>
  </h1>
 
- <div align="center">
-   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parham-mirzaei-11a972359/) [![X](https://img.shields.io/badge/-white.svg?logo=X&logoColor=black)](https://X.com/parham0121)
-
-</div>
-
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,sass,git,vscode" alt="Tools"/>
@@ -32,4 +26,14 @@
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parham0121&layout=compact&theme=transparent&hide_border=true&border_radius=2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ECode-Team&repo=AliBaba&theme=ambient_gradient)](https://github.com/ECode-Team/AliBaba)
+<a href="https://instagram.com/parsarostami18">
+    <img alt="Instagram" src="https://img.icons8.com/fluency/48/instagram-new.png" />
+</a>
+<a href="https://t.me/papymankan">
+    <img alt="Telegram" src="https://img.icons8.com/fluency/48/telegram-app.png" />
+</a>
+<a href="https://www.linkedin.com/in/parsa-rostami-js/">
+    <img alt="Telegram" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png&color=000000" />
+</a>
+
 </div>
